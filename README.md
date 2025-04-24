@@ -64,8 +64,8 @@
   <section id="contact" class="bg-blue-50 py-12">
     <div class="max-w-5xl mx-auto px-6">
       <h3 class="text-2xl font-bold mb-4">Contact</h3>
-      <p class="mb-2">📧 Email: princeyadav@email.com</p>
-      <p class="mb-2">📱 Phone: +91-XXXXXXXXXX</p>
+      <p class="mb-2">📧 Email: princeyada399@email.com</p>
+      <p class="mb-2">📱 Phone: +91-8400906981</p>
       <p>🌐 LinkedIn: <a href="#" class="text-blue-600 hover:underline">linkedin.com/in/princeyadav</a></p>
     </div>
   </section>
