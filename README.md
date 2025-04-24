@@ -45,13 +45,7 @@
           <p>Built a home automation system using NodeMCU, sensors, and MQTT to control lights and fans via a mobile app.</p>
         </div>
 
-        <!-- Project 2 -->
-        <div class="bg-gray-100 p-6 rounded-lg shadow-md">
-          <h4 class="text-xl font-semibold mb-2">Air Quality Monitoring System</h4>
-          <p>Designed a system to monitor air pollution using gas sensors and send data to the cloud for real-time visualization.</p>
-        </div>
-      </div>
-    </div>
+       
   </section>
 
   <!-- Skills Section -->
