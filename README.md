@@ -1,1 +1,1 @@
-# prince.github.io
+# prince
